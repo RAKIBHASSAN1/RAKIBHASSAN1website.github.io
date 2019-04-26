@@ -1,0 +1,56 @@
+#v
+{
+    margin-top: 10px;
+margin-left: 350px;
+height:600px;
+width: 600px;
+background-color: rgb(48, 36, 47);
+color: white;
+}
+#v #n
+{
+    margin-top: -10px;
+    font-size: 30px;
+    margin-left: 110px;
+    
+}
+#v1
+{
+    margin-top: -50px;
+    margin-left: 800px;
+}
+#v1 a
+{
+color: white;
+text-decoration: none;
+font-size: 20px;
+background-color: blue;
+border:3px solid blue;
+}
+#v #n1
+{
+  margin-top: -10px;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-right:5px;
+    
+}
+#v #n2
+{
+  margin-top: 10px;
+    font-size: 20px;
+    margin-left: 315px;
+  
+    
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(37, 3, 10) ;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+  background-repeat: no-repeat;
+  height: 100%;
+}
